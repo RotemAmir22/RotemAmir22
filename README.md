@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RotemAmir22
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering at BGU
 - 📫 How to reach me: amir.rotem22@gmail.com
 
 <!---
